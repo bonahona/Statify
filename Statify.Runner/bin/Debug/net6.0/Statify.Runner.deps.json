@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Statify.Runner/1.0.0": {
+        "dependencies": {
+          "Statify.Example": "1.0.0",
+          "Statify.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Statify.Runner.dll": {}
+        }
+      },
+      "Statify.Example/1.0.0": {
+        "dependencies": {
+          "Statify.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Statify.Example.dll": {}
+        }
+      },
+      "Statify.Lib/1.0.0": {
+        "runtime": {
+          "Statify.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Statify.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Statify.Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Statify.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

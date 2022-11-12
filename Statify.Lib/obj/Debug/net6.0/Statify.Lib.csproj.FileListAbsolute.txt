@@ -1,0 +1,12 @@
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.csproj.AssemblyReference.cache
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.AssemblyInfoInputs.cache
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.AssemblyInfo.cs
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.csproj.CoreCompileInputs.cache
+E:\Projects\Statify\Statify.Lib\bin\Debug\net6.0\Statify.Lib.deps.json
+E:\Projects\Statify\Statify.Lib\bin\Debug\net6.0\Statify.Lib.dll
+E:\Projects\Statify\Statify.Lib\bin\Debug\net6.0\Statify.Lib.pdb
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.dll
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\refint\Statify.Lib.dll
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\Statify.Lib.pdb
+E:\Projects\Statify\Statify.Lib\obj\Debug\net6.0\ref\Statify.Lib.dll

@@ -1,0 +1,15 @@
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.csproj.AssemblyReference.cache
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.AssemblyInfoInputs.cache
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.AssemblyInfo.cs
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.csproj.CoreCompileInputs.cache
+E:\Projects\Statify\Statify.Example\bin\Debug\net6.0\Statify.Example.deps.json
+E:\Projects\Statify\Statify.Example\bin\Debug\net6.0\Statify.Example.dll
+E:\Projects\Statify\Statify.Example\bin\Debug\net6.0\Statify.Example.pdb
+E:\Projects\Statify\Statify.Example\bin\Debug\net6.0\Statify.Lib.dll
+E:\Projects\Statify\Statify.Example\bin\Debug\net6.0\Statify.Lib.pdb
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.csproj.CopyComplete
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.dll
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\refint\Statify.Example.dll
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\Statify.Example.pdb
+E:\Projects\Statify\Statify.Example\obj\Debug\net6.0\ref\Statify.Example.dll
