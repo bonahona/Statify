@@ -2,7 +2,7 @@
 
 namespace Statify.Example.Entities.TestEntity.Messages
 {
-    public class DecreaseValueMessage : IMessage
+    public class CreateAttackMessage : IMessage
     {
         public Guid EntityId { get; set; }
     }

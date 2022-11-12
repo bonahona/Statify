@@ -5,7 +5,7 @@
         public Guid Id { get; }
     }
 
-    public interface IEntity<TState,TProject> : IEntity where TState : IState
+    public interface IEntity<TState,TProject> : IEntity
     {
         TState State { get; set; }
         TProject Project();

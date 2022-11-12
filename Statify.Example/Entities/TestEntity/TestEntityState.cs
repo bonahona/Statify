@@ -2,18 +2,11 @@
 
 namespace Statify.Example.Entities.TestEntity
 {
-    public class TestEntityState : IState
+    public enum TestEntityState : byte
     {
-        public void Load()
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool Persist()
-        {
-            throw new NotImplementedException();
-        }
-
-        public int Value { get; set; }
+        Idle = 0,
+        Activated = 1,
+        Completed = 2,
+        Expired = 3
     }
 }

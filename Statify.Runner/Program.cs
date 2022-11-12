@@ -3,19 +3,19 @@ using Statify.Example.Entities.TestEntity.Messages;
 using Statify.Lib;
 
 var dispatcher = new MessageDispatcher();
-dispatcher.RegisterType<TestEntity>();
+dispatcher.RegisterTypes();
 
-var entity = new TestEntity {  Id = Guid.NewGuid() };
+var entity = new AttackManagerEntity {  Id = Guid.NewGuid() };
 dispatcher.RegisterEntity(entity);
 
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
-dispatcher.Enqueue(new IncreaseValueMessage { EntityId = entity.Id });
+dispatcher.Publish(new CreateAttackMessage { EntityId = entity.Id });
+
+dispatcher.Run(new CancellationToken());
+
+while(true) {
+    dispatcher.Publish(new CreateAttackMessage { EntityId = entity.Id });
+    await Task.Delay(1000);
+}
 
 
-dispatcher.Run();
 
-Console.ReadLine();
